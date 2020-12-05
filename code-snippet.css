@@ -1,0 +1,12 @@
+/*--- Dark Mode ---*/
+.a2020_night_mode .customjscss-options-header,
+.a2020_night_mode .customjscss-options-data,
+.a2020_night_mode .customjscss-editor,
+.a2020_night_mode .customjscss-editor-active,
+.a2020_night_mode .customjscss-editor-header,
+.a2020_night_mode .customjscss-options,
+.a2020_night_mode .customjscss-options-active {
+  background-color: #202020 !important;
+  background: #202020 !important;
+  background-image: unset !important;
+}
